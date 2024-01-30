@@ -1,3 +1,14 @@
+# Data Scientist
+
+# Education
+
+# Experience
+
+# Soft Skills
+
+
+
+
 - 👋 Hi, I’m @samipkharadi
 - 👀 I’m interested in ... machine learning
 - 🌱 I’m currently learning ... coding
